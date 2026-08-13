@@ -30,13 +30,11 @@ A Python-based GUI Weather Application that fetches and displays real-time weath
 
 ## Project Structure
 
-Python-Task4-Weather-App/
-│
-├── main.py
-├── .env
-├── .gitignore
-├── requirements.txt
-└── README.md
+- main.py — Main Weather App application
+- .env — API key configuration
+- .gitignore — Files excluded from GitHub
+- requirements.txt — Required Python packages
+- README.md — Project documentation
 
 ## Installation
 
